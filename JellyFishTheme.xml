@@ -18,11 +18,11 @@
           <key>lineHighlight</key>
           <string>#1e1e20</string> <!-- Line Highlight -->
           <key>gutter_foreground</key>
-          <string>#ff0000</string> <!-- Gutter_Foreground -->
+          <string>#272729</string> <!-- Gutter_Foreground -->
           <key>gutter_background</key>
-          <string>#ff0000</string> <!-- Gutter_Background -->
+          <string>#1e1e20</string> <!-- Gutter_Background -->
           <key>gutter_divider</key>
-          <string>#ff0000</string> <!-- Gutter_Dividor -->
+          <string>#272729</string> <!-- Gutter_Dividor -->
           <key>caret</key>
           <string>#ffffff</string> <!-- Caret-->
           <key>selection</key>
