@@ -38,9 +38,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
 				<key>foreground</key>
-				<string>#cccccc</string>
+				<string>#5c6370</string>
 			</dict>
 		</dict>
 		<dict>
