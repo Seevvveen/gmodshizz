@@ -4,9 +4,10 @@
 <!-- Fuck you Everything is Red -->
 <!-- All Colors are in HEX -->
 
+
+
 <plist version="1.0">
   <dict>
-
     <key>name</key>
     <string>EverythingisRed</string>  <!-- The Name -->
     <key>settings</key>
@@ -44,7 +45,7 @@
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
-          <string><string/>
+          <string></string>
           <key>foreground</key>
           <string>#ff0000</string>
         </dict>
@@ -58,7 +59,7 @@
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
-          <string><string/>
+          <string></string>
           <key>foreground</key>
           <string>#da68fb</string>
         </dict>
@@ -72,7 +73,7 @@
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
-          <string><string/>
+          <string></string>
           <key>foreground</key>
           <string>#ff0000</string>
         </dict>
@@ -86,7 +87,7 @@
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
-          <string><string/>
+          <string></string>
           <key>foreground</key>
           <string>#ff0000</string>
         </dict>
@@ -100,7 +101,7 @@
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
-          <string><string/>
+          <string></string>
           <key>foreground</key>
           <string>#ff0000</string>
         </dict>
@@ -114,7 +115,7 @@
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
-          <string><string/>
+          <string></string>
           <key>foreground</key>
           <string>#ff0000</string>
         </dict>
@@ -128,7 +129,7 @@
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
-          <string><string/>
+          <string></string>
           <key>foreground</key>
           <string>#ff0000</string>
         </dict>
@@ -142,7 +143,7 @@
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
-          <string><string/>
+          <string></string>
           <key>foreground</key>
           <string>#ff0000</string>
         </dict>
@@ -156,7 +157,7 @@
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
-          <string><string/>
+          <string></string>
           <key>foreground</key>
           <string>#ff0000</string>
         </dict>
@@ -170,7 +171,7 @@
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
-          <string><string/>
+          <string></string>
           <key>foreground</key>
           <string>#ff0000</string>
         </dict>
@@ -184,7 +185,7 @@
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
-          <string><string/>
+          <string></string>
           <key>foreground</key>
           <string>#ff0000</string>
         </dict>
@@ -198,7 +199,7 @@
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
-          <string><string/>
+          <string></string>
           <key>foreground</key>
           <string>#ff0000</string>
         </dict>
@@ -212,7 +213,7 @@
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
-          <string><string/>
+          <string></string>
           <key>foreground</key>
           <string>#ff0000</string>
         </dict>
@@ -226,7 +227,7 @@
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
-          <string><string/>
+          <string></string>
           <key>foreground</key>
           <string>#ff0000</string>
         </dict>
@@ -240,7 +241,7 @@
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
-          <string><string/>
+          <string></string>
           <key>foreground</key>
           <string>#ff0000</string>
         </dict>
