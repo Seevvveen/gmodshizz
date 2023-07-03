@@ -26,7 +26,7 @@
 				<!-- 'Invalid' -->
 				<!-- This catches things from commas to variable names. -->
 				<key>foreground</key>
-				<string>#e6e6e6</string>
+				<string>#cccccc</string>
 			</dict>
 		</dict>
 		<dict>
