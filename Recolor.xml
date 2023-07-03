@@ -34,7 +34,7 @@
 			<!-- Single line and Multiline comments -->
 			<string>Comment</string>
 			<key>scope</key>
-			<string>comment.line</string>
+			<string>comment</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
